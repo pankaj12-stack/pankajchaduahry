@@ -1,1 +1,25 @@
-# pankajchaduahry
+### Hi, my name is Pankaj Chaudhary
+
+- I'm a recent graduate with a Masters degree in Computer Engineering from Memorial University of Newfoundland.  
+- I’m currently learning about AWS, Angular, data visualization, and UI / UX design.
+- Pronouns: He / Him.
+
+### 👩🏻‍💻 My most used languages & tools:
+
+![Python](https://img.shields.io/badge/-Python-red) ![JavaScript](https://img.shields.io/badge/-JavaScript-orange) ![React](https://img.shields.io/badge/-React-blue) ![Nodejs](https://img.shields.io/badge/-Nodejs-blueviolet) ![Figma](https://img.shields.io/badge/-Figma-ff69b4)
+
+
+
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
